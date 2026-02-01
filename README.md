@@ -15,7 +15,7 @@ Application for checking Discord token validity.
 
 - Multi-threaded token checking
 - Configurable thread count and timeout
-- Customizable output format
+- Customizable output format 
 
 ## Installation
 

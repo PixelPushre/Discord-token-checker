@@ -1,7 +1,7 @@
 # Discord Account Tokens Checker
 
 Application for checking Discord token validity.
-
+ 
 ## Screenshots
 
 

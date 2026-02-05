@@ -12,7 +12,7 @@ Application for checking Discord token validity.
 ![Checking Progress](https://github.com/user-attachments/assets/40b58d5b-dae3-4a90-b421-a78131488b69)
 
 ## Features
- 
+  
 - Multi-threaded token checking 
 - Configurable thread count and timeout
 - Customizable output format 
